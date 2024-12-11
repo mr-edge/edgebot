@@ -32,7 +32,9 @@ void check_screen_listener() {
 }
 
 void check_for_input() {
+    // check global
 
+    //
 }
 
 void update_ui() {
